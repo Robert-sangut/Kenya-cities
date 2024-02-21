@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Nairobi",
+        "Population": 4300000
+      },
+      "geometry": {
+        "coordinates": [
+          36.82010135336267,
+          -1.2799170736909673
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Kisumu",
+        "Population": 610082
+      },
+      "geometry": {
+        "coordinates": [
+          34.752108877170485,
+          -0.09814158309275456
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Mombasa",
+        "Population": 1440000
+      },
+      "geometry": {
+        "coordinates": [
+          39.73924214473789,
+          -4.115994788610706
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Eldoret",
+        "Population": 300000
+      },
+      "geometry": {
+        "coordinates": [
+          35.26863161942762,
+          0.5311768791830076
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Nakuru",
+        "Population": 422000
+      },
+      "geometry": {
+        "coordinates": [
+          36.06397251842051,
+          -0.2882959633006408
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
